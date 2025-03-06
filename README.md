@@ -1,6 +1,8 @@
-# My Docker Container Project
+# Window-Grapher Sea-View-Factor
 
-This project demonstrates how to set up and use a Docker container for a Python pipeline.
+![izukyutokaido](https://github.com/user-attachments/assets/72ed6a3a-2d29-426c-858b-479f502b70cb)
+
+This project demonstrates how to set up and use a Docker container for a Python pipeline to calculate sea-view-factor.
 
 ## Project Structure
 
