@@ -1,4 +1,6 @@
-# My Docker Container Project
+# Window-Grapher Sea-View-Factor
+
+![izukyutokaido](https://github.com/user-attachments/assets/b067653c-7b11-432a-b0a5-287bfc210983)
 
 This project demonstrates how to set up and use a Docker container for a Python pipeline.
 
