@@ -1,0 +1,7 @@
+{
+    "delta_angle": 5,
+    "max_distance": 400,
+    "observer_position": null,
+    "print_info": false,
+    "output_folder": "./output"
+}

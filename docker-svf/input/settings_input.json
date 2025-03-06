@@ -1,0 +1,11 @@
+{
+    "raster_geotiff_path": "./input/sample.tif",
+    "raster_geotiff_band": 1,
+    "raster_print_info": true,
+    "line_input_file_path": "./input/N02-20_RailroadSection.geojson",
+    "line_input_file_type": "railway_geojson",
+    "line_filter_key": "N02_003",
+    "line_filter_value": ["伊豆急行線", "東海道線"],
+    "line_id_key": "N02_001",
+    "line_distance_m": 10
+}

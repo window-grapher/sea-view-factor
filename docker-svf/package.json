@@ -1,0 +1,13 @@
+{
+  "name": "svf-calculator",
+  "version": "1.0.0",
+  "description": "Calculate the Sea View Factor (SVF) using Python",
+  "main": "main.py",
+  "scripts": {
+    "start": "python main.py"
+  },
+  "author": "yusa-san, Nori",
+  "license": "",
+  "dependencies": {},
+  "devDependencies": {}
+}

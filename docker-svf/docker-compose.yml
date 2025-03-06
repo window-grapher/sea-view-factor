@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  svf:
+    build:
+      context: .
+      dockerfile: dockerfile
+    image: docker-svf:latest
+    container_name: svf-container
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+    tty: true
+    stdin_open: true
